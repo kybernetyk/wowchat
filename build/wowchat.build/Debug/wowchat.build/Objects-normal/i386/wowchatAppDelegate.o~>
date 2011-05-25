@@ -1,0 +1,5 @@
+/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m: In function '-[wowchatAppDelegate sendUpdateToSocketServer:server:port:]':
+/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:71: warning: initialization discards qualifiers from pointer target type
+/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m: In function '-[wowchatAppDelegate lolDo:]':
+/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:152: warning: passing argument 4 of 'vm_read_overwrite' makes integer from pointer without a cast
+/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:285: warning: unused variable 'lol'

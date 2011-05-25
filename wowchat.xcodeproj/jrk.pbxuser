@@ -1,0 +1,405 @@
+// !$*UTF8*$!
+{
+	032ECE2911AD2B6500D88EBC /* wowchat */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = wowchat;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	032ECE3111AD2B8300D88EBC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	032ECE3211AD2B8300D88EBC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	032ECEDC11AD332200D88EBC /* wowchatAppDelegate.m:386 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* wowchatAppDelegate.m */;
+		functionName = "-lolDo:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 386;
+		modificationTime = 297280509.806444;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	033E93E211B5327C00DA755F /* main.m:40 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "acquireTaskportRight()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 40;
+		location = wowchat;
+		modificationTime = 297280509.818819;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	033E93EA11B532AC00DA755F /* main.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = wowchat;
+		modificationTime = 297280509.819217;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	03B3E6D611AD5ED200295F09 /* ChatLogEntry.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 935}}";
+			sepNavSelRange = "{1478, 9}";
+			sepNavVisRange = "{324, 1267}";
+		};
+	};
+	03B3E6D711AD5ED200295F09 /* ChatLogEntry.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 4811}}";
+			sepNavSelRange = "{3160, 0}";
+			sepNavVisRange = "{3758, 1037}";
+		};
+	};
+	03C405D611B53AA5001E2CEE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	03C462B111B57BDA00A928D0 /* wowchatAppDelegate.m:139 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* wowchatAppDelegate.m */;
+		functionName = "-lolDo:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 139;
+		location = wowchat;
+		modificationTime = 297280509.819585;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	03C462E011B7D7F800A928D0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* wowchat-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			SecTaskAccess,
+		);
+		name = "/Volumes/Work/Code/exp/wowchat/wowchat-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	03C463A711B7E45E00A928D0 /* wowchatAppDelegate.m:466 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		condition = 03C463C011B7E52100A928D0 /* XCGDBBreakpointCondition */;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* wowchatAppDelegate.m */;
+		functionName = "-tableView:objectValueForTableColumn:row:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 466;
+		location = wowchat;
+		modificationTime = 297280509.820013;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	03C463C011B7E52100A928D0 /* XCGDBBreakpointCondition */ = {
+		isa = XCGDBBreakpointCondition;
+		conditionString = "[[entry playerName] isEqualToString: @\"Wehrdachs\"]";
+	};
+	03C464CA11B7F31F00A928D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* wowchatAppDelegate.h */;
+		name = "wowchatAppDelegate.h: 22";
+		rLen = 20;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 594;
+		vrLoc = 0;
+	};
+	03C464E411B7F3FC00A928D0 /* MGTwitterLibXMLParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 901}}";
+			sepNavSelRange = "{137, 0}";
+			sepNavVisRange = "{0, 1088}";
+		};
+	};
+	03C4650311B7F3FC00A928D0 /* MGTwitterXMLParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 2941}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRange = "{94, 1154}";
+		};
+	};
+	03C4650411B7F3FC00A928D0 /* MGTwitterYAJLParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 1037}}";
+			sepNavSelRange = "{201, 0}";
+			sepNavVisRange = "{0, 979}";
+		};
+	};
+	03C4652D11B7F43D00A928D0 /* yajl_gen.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 4845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1619}";
+		};
+	};
+	03C4652F11B7F43D00A928D0 /* yajl_lex.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 12461}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1613}";
+		};
+	};
+	03C4658711B7F4DA00A928D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03C4652D11B7F43D00A928D0 /* yajl_gen.c */;
+		name = "yajl_gen.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1619;
+		vrLoc = 0;
+	};
+	03C4659D11B7F64B00A928D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03C4650411B7F3FC00A928D0 /* MGTwitterYAJLParser.h */;
+		name = "MGTwitterYAJLParser.h: 12";
+		rLen = 0;
+		rLoc = 201;
+		rType = 0;
+		vrLen = 979;
+		vrLoc = 0;
+	};
+	03C466EE11B8FC4600A928D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* wowchatAppDelegate.m */;
+		name = "wowchatAppDelegate.m: 353";
+		rLen = 0;
+		rLoc = 9893;
+		rType = 0;
+		vrLen = 560;
+		vrLoc = 3780;
+	};
+	03C466EF11BA536600A928D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 51";
+		rLen = 0;
+		rLoc = 1255;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 940;
+	};
+	03C466F011BA536600A928D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* wowchatAppDelegate.m */;
+		name = "wowchatAppDelegate.m: 142";
+		rLen = 0;
+		rLoc = 3708;
+		rType = 0;
+		vrLen = 922;
+		vrLoc = 3360;
+	};
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 627}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* wowchatAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 615}}";
+			sepNavSelRange = "{366, 20}";
+			sepNavVisRange = "{0, 594}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* wowchatAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1619, 8177}}";
+			sepNavSelRange = "{9893, 0}";
+			sepNavVisRange = "{3973, 580}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* wowchat_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 615}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 145}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 032ECE2911AD2B6500D88EBC /* wowchat */;
+		activeTarget = 8D1107260486CEB800E47090 /* wowchat */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* wowchat */,
+		);
+		breakpoints = (
+			032ECEDC11AD332200D88EBC /* wowchatAppDelegate.m:386 */,
+			033E93E211B5327C00DA755F /* main.m:40 */,
+			033E93EA11B532AC00DA755F /* main.m:80 */,
+			03C462B111B57BDA00A928D0 /* wowchatAppDelegate.m:139 */,
+			03C463A711B7E45E00A928D0 /* wowchatAppDelegate.m:466 */,
+		);
+		codeSenseManager = 032ECE3211AD2B8300D88EBC /* Code sense */;
+		executables = (
+			032ECE2911AD2B6500D88EBC /* wowchat */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					429,
+					20,
+					329,
+					329,
+					257,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1234,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297090445;
+			PBXWorkspaceStateSaveDate = 297090445;
+		};
+		perUserProjectItems = {
+			03C405D611B53AA5001E2CEE /* PBXTextBookmark */ = 03C405D611B53AA5001E2CEE /* PBXTextBookmark */;
+			03C462E011B7D7F800A928D0 /* PlistBookmark */ = 03C462E011B7D7F800A928D0 /* PlistBookmark */;
+			03C464CA11B7F31F00A928D0 /* PBXTextBookmark */ = 03C464CA11B7F31F00A928D0 /* PBXTextBookmark */;
+			03C4658711B7F4DA00A928D0 /* PBXTextBookmark */ = 03C4658711B7F4DA00A928D0 /* PBXTextBookmark */;
+			03C4659D11B7F64B00A928D0 /* PBXTextBookmark */ = 03C4659D11B7F64B00A928D0 /* PBXTextBookmark */;
+			03C466EE11B8FC4600A928D0 /* PBXTextBookmark */ = 03C466EE11B8FC4600A928D0 /* PBXTextBookmark */;
+			03C466EF11BA536600A928D0 /* PBXTextBookmark */ = 03C466EF11BA536600A928D0 /* PBXTextBookmark */;
+			03C466F011BA536600A928D0 /* PBXTextBookmark */ = 03C466F011BA536600A928D0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 032ECE3111AD2B8300D88EBC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 2992}}";
+			sepNavSelRange = "{1255, 0}";
+			sepNavVisRange = "{940, 647}";
+		};
+	};
+	8D1107260486CEB800E47090 /* wowchat */ = {
+		activeExec = 0;
+		executables = (
+			032ECE2911AD2B6500D88EBC /* wowchat */,
+		);
+	};
+	8D1107310486CEB800E47090 /* wowchat-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 646}}";
+			sepNavSelRange = "{1058, 0}";
+			sepNavVisRange = "{0, 1068}";
+		};
+	};
+}

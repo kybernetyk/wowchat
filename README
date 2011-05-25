@@ -1,0 +1,10 @@
+A simple wow-chat -> twitter gateway.
+
+This works by reading the chat directly from Memory.
+As this project is somewhat older you will have to finde
+the offset for the chat buffer in the current wow client.
+
+Have fun :)
+
+License: GPL3
+(c) Leon Szpilewski, 2010

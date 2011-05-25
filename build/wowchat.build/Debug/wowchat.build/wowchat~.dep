@@ -1,0 +1,10 @@
+7119f5ad1c11185b68ab476755deab66 07418b22614e6ece0546dcaf0704c4c4 ffffffffffffffffffffffffffffffff 102 /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app
+ccd2caa28471c43e58f29e2acafc01c9 7336b4124bc0bcbfe40dbc35c3a1f6d2 ffffffffffffffffffffffffffffffff 36860 /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/MacOS/wowchat
+000000004bfcf8a1000000000002cb44 f92d54ba18a9bc86c9723303048c8ebf ffffffffffffffffffffffffffffffff 35322 /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004bfcf3e4000000000000002d 37d0dfa7cb09d7191d26567b580d19ab ffffffffffffffffffffffffffffffff 92 /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 1d2ee45b73f0fdd342b9f2b1ea37df10 ffffffffffffffffffffffffffffffff 8 /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/PkgInfo
+00000000000000000000000000000000 1d2ee45b73f0fdd342b9f2b1ea37df10 ffffffffffffffffffffffffffffffff 938 /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Info.plist
+aa93929fc72e4fed85ba2b9be26e126b c430c9d18184dc72319465ef0156b918 ffffffffffffffffffffffffffffffff 33940 /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/ChatLogEntry.o
+aa93929fcbeff4f785ba2b9be26e4795 b71620e665299bde48acdf6da0309cbc ffffffffffffffffffffffffffffffff 25716 /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchatAppDelegate.o
+aa93929fc19a58ea85ba2b9be26e2044 1567b10aacf1d635a4700f3389f081f5 ffffffffffffffffffffffffffffffff 11404 /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/main.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 56846128 /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wowchat_Prefix-gatfgpjoihxlisekfsysfdqizfiw/wowchat_Prefix.pch.gch
