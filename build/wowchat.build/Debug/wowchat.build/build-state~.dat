@@ -1,269 +1,0 @@
-Twowchat
-v7
-r0
-t297087586.633723
-cCheck dependencies
-cProcessInfoPlistFile /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Info.plist wowchat-Info.plist
-cCopyStringsFile /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCompileXIB /Volumes/Work/Code/exp/wowchat/English.lproj/MainMenu.xib
-cProcessPCH /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wowchat_Prefix-gatfgpjoihxlisekfsysfdqizfiw/wowchat_Prefix.pch.gch wowchat_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/main.o /Volumes/Work/Code/exp/wowchat/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchatAppDelegate.o /Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/ChatLogEntry.o /Volumes/Work/Code/exp/wowchat/ChatLogEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/MacOS/wowchat normal i386
-cTouch /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004B699B3400000000000000EE
-t1265212212
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004AB9AA2700000000000013E6
-t1253681703
-s5094
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Headers/AuthorizationTags.h
-c000000004A4D51FA0000000000000EC4
-t1246581242
-s3780
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Security
-c000000004ABBF0EF000000000006603C
-t1253830895
-s417852
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SecurityFoundation.framework/Headers/SFAuthorization.h
-c000000004A441543000000000000186E
-t1245975875
-s6254
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SecurityFoundation.framework/SecurityFoundation
-c000000004ABBF0EF0000000000021510
-t1253830895
-s136464
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/mach/mach_traps.h
-c000000004A73D65400000000000010A7
-t1249105492
-s4263
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/mach/vm_map.h
-c000000004A73D454000000000000721A
-t1249104980
-s29210
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/Volumes/Work/Code/exp/wowchat/ChatLogEntry.h
-c000000004BFCF03A0000000000000637
-t1274867770
-s1591
-i<Cocoa/Cocoa.h>
-
-N/Volumes/Work/Code/exp/wowchat/ChatLogEntry.m
-c000000004BFCF03A00000000000021E7
-t1274867770
-s8679
-i"ChatLogEntry.h"
-
-N/Volumes/Work/Code/exp/wowchat/English.lproj/InfoPlist.strings
-c000000004BFCF3E4000000000000002D
-t1274868708
-s45
-
-N/Volumes/Work/Code/exp/wowchat/English.lproj/MainMenu.xib
-c000000004BFCF8A1000000000002CB44
-t1274869921
-s183108
-
-N/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app
-t1275394786
-s102
-
-N/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Info.plist
-t1275394785
-s938
-
-N/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/MacOS/wowchat
-t1275394786
-s36860
-
-N/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/PkgInfo
-t1275394785
-s8
-
-N/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1275394785
-s92
-
-N/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/MainMenu.nib
-t1275394785
-s35322
-
-N/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/ChatLogEntry.o
-t1275394786
-s33940
-
-N/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/main.o
-t1275394786
-s11404
-
-N/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchat.LinkFileList
-c000000004C04FAE1000000000000013C
-t1275394785
-s316
-
-N/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchatAppDelegate.o
-t1275394786
-s25716
-
-N/Volumes/Work/Code/exp/wowchat/main.m
-c000000004C04F99900000000000010B3
-t1275394457
-s4275
-i<Cocoa/Cocoa.h>
-i<Foundation/foundation.h>
-i<SecurityFoundation/SFAuthorization.h>
-i<Security/AuthorizationTags.h>
-
-N/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.h
-c000000004BFD1B8E000000000000015B
-t1274878862
-s347
-i<Cocoa/Cocoa.h>
-
-N/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m
-c000000004C04F8C6000000000000161A
-t1275394246
-s5658
-i"wowchatAppDelegate.h"
-i"ChatLogEntry.h"
-i<mach/vm_map.h>
-i<mach/mach_traps.h>
-
-N/Volumes/Work/Code/exp/wowchat/wowchat_Prefix.pch
-c000000004BFCF3E40000000000000091
-t1274868708
-s145
-i<Cocoa/Cocoa.h>
-
-N/var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wowchat_Prefix-gatfgpjoihxlisekfsysfdqizfiw/wowchat_Prefix.pch.gch
-t1274875294
-s56846128
-
-Nwowchat-Info.plist
-c000000004C04FAB4000000000000041E
-t1275394740
-s1054
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies297087585#297087585#0(0"0(0#1#0"7947009927035180032#0"0#
-
-CCompileC build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/ChatLogEntry.o /Volumes/Work/Code/exp/wowchat/ChatLogEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297087586.314177
-e297087586.586911
-r1
-xCompileC
-xbuild/wowchat.build/Debug/wowchat.build/Objects-normal/i386/ChatLogEntry.o
-x/Volumes/Work/Code/exp/wowchat/ChatLogEntry.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@53"Compile /Volumes/Work/Code/exp/wowchat/ChatLogEntry.m297087586#297087586#0(0"0(0#0#45"/Volumes/Work/Code/exp/wowchat/ChatLogEntry.m7809643567100341248#1372"    cd /Volumes/Work/Code/exp/wowchat    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-generated-files.hmap -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-own-target-headers.hmap -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-all-target-headers.hmap -iquote /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-project-headers.hmap -F/Volumes/Work/Code/exp/wowchat/build/Debug -I/Volumes/Work/Code/exp/wowchat/build/Debug/include -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/DerivedSources/i386 -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/DerivedSources -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wowchat_Prefix-gatfgpjoihxlisekfsysfdqizfiw/wowchat_Prefix.pch -c /Volumes/Work/Code/exp/wowchat/ChatLogEntry.m -o /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/ChatLogEntry.o0#
-
-CCompileC build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/main.o /Volumes/Work/Code/exp/wowchat/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297087585.857360
-e297087586.314091
-r1
-xCompileC
-xbuild/wowchat.build/Debug/wowchat.build/Objects-normal/i386/main.o
-x/Volumes/Work/Code/exp/wowchat/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Volumes/Work/Code/exp/wowchat/main.m: In function 'acquireTaskportRight':
-o/Volumes/Work/Code/exp/wowchat/main.m:28: warning: unused variable 'retval'
-o/Volumes/Work/Code/exp/wowchat/main.m: In function 'main':
-o/Volumes/Work/Code/exp/wowchat/main.m:80: warning: implicit declaration of function 'mach_error_string'
-o/Volumes/Work/Code/exp/wowchat/main.m:80: warning: format '%s' expects type 'char *', but argument 2 has type 'int'
-o/Volumes/Work/Code/exp/wowchat/main.m:56: warning: unused variable 'state'
-o/Volumes/Work/Code/exp/wowchat/main.m:55: warning: unused variable 'threadCount'
-o/Volumes/Work/Code/exp/wowchat/main.m:54: warning: unused variable 'threadList'
-lSLF07#2@45"Compile /Volumes/Work/Code/exp/wowchat/main.m297087585#297087586#0(666"/Volumes/Work/Code/exp/wowchat/main.m: In function 'acquireTaskportRight':/Volumes/Work/Code/exp/wowchat/main.m:28: warning: unused variable 'retval'/Volumes/Work/Code/exp/wowchat/main.m: In function 'main':/Volumes/Work/Code/exp/wowchat/main.m:80: warning: implicit declaration of function 'mach_error_string'/Volumes/Work/Code/exp/wowchat/main.m:80: warning: format '%s' expects type 'char *', but argument 2 has type 'int'/Volumes/Work/Code/exp/wowchat/main.m:56: warning: unused variable 'state'/Volumes/Work/Code/exp/wowchat/main.m:55: warning: unused variable 'threadCount'/Volumes/Work/Code/exp/wowchat/main.m:54: warning: unused variable 'threadList'6(22@24"Unused variable 'retval'297087585#75#76#0(6@37"/Volumes/Work/Code/exp/wowchat/main.m297087257#28#0#28#0#19"unused variable '*'0(22@52"Implicit declaration of function 'mach_error_string'297087585#210#104#0(6@37"/Volumes/Work/Code/exp/wowchat/main.m297087257#80#0#80#0#36"implicit declaration of function '*'0(22@64"Format '%s' expects type 'char *', but argument 2 has type 'int'297087585#314#116#0(6@37"/Volumes/Work/Code/exp/wowchat/main.m297087257#80#0#80#0#56"format '*' expects type '*', but argument * has type '*'0(22@23"Unused variable 'state'297087585#430#75#0(6@37"/Volumes/Work/Code/exp/wowchat/main.m297087257#56#0#56#0#19"unused variable '*'0(22@29"Unused variable 'threadCount'297087585#505#81#0(6@37"/Volumes/Work/Code/exp/wowchat/main.m297087257#55#0#55#0#19"unused variable '*'0(22@28"Unused variable 'threadList'297087585#586#80#0(6@37"/Volumes/Work/Code/exp/wowchat/main.m297087257#54#0#54#0#19"unused variable '*'0(0#0#37"/Volumes/Work/Code/exp/wowchat/main.m4300885448#1356"    cd /Volumes/Work/Code/exp/wowchat    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-generated-files.hmap -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-own-target-headers.hmap -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-all-target-headers.hmap -iquote /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-project-headers.hmap -F/Volumes/Work/Code/exp/wowchat/build/Debug -I/Volumes/Work/Code/exp/wowchat/build/Debug/include -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/DerivedSources/i386 -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/DerivedSources -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wowchat_Prefix-gatfgpjoihxlisekfsysfdqizfiw/wowchat_Prefix.pch -c /Volumes/Work/Code/exp/wowchat/main.m -o /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/main.o0#
-
-CCompileC build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchatAppDelegate.o /Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297087585.858817
-e297087586.379562
-r1
-xCompileC
-xbuild/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchatAppDelegate.o
-x/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m: In function '-[wowchatAppDelegate lolDo:]':
-o/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:72: warning: passing argument 4 of 'vm_read_overwrite' makes integer from pointer without a cast
-o/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:85: warning: pointer targets in passing argument 2 of 'CFDataCreate' differ in signedness
-o/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:88: warning: initialization from incompatible pointer type
-lSLF07#2@59"Compile /Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m297087585#297087586#0(499"/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m: In function '-[wowchatAppDelegate lolDo:]':/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:72: warning: passing argument 4 of 'vm_read_overwrite' makes integer from pointer without a cast/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:85: warning: pointer targets in passing argument 2 of 'CFDataCreate' differ in signedness/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m:88: warning: initialization from incompatible pointer type3(22@83"Passing argument 4 of 'vm_read_overwrite' makes integer from pointer without a cast297087586#97#149#0(6@51"/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m297087046#72#0#72#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@76"Pointer targets in passing argument 2 of 'CFDataCreate' differ in signedness297087586#246#142#0(6@51"/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m297087046#85#0#85#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@45"Initialization from incompatible pointer type297087586#388#111#0(6@51"/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m297087046#88#0#88#0#45"initialization from incompatible pointer type0(0#0#51"/Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m4300885448#1384"    cd /Volumes/Work/Code/exp/wowchat    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-generated-files.hmap -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-own-target-headers.hmap -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-all-target-headers.hmap -iquote /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/wowchat-project-headers.hmap -F/Volumes/Work/Code/exp/wowchat/build/Debug -I/Volumes/Work/Code/exp/wowchat/build/Debug/include -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/DerivedSources/i386 -I/Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/DerivedSources -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wowchat_Prefix-gatfgpjoihxlisekfsysfdqizfiw/wowchat_Prefix.pch -c /Volumes/Work/Code/exp/wowchat/wowchatAppDelegate.m -o /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchatAppDelegate.o0#
-
-CCompileXIB /Volumes/Work/Code/exp/wowchat/English.lproj/MainMenu.xib
-s297087585.237023
-e297087585.857142
-r1
-xCompileXIB
-x/Volumes/Work/Code/exp/wowchat/English.lproj/MainMenu.xib
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib297087585#297087585#0(0"0(0#0#57"/Volumes/Work/Code/exp/wowchat/English.lproj/MainMenu.xib4300885448#303"    cd /Volumes/Work/Code/exp/wowchat    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/MainMenu.nib /Volumes/Work/Code/exp/wowchat/English.lproj/MainMenu.xib0#
-
-CCopyStringsFile /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s297087585.235028
-e297087585.289459
-r1
-xCopyStringsFile
-x/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings297087585#297087585#0(0"0(0#0#62"/Volumes/Work/Code/exp/wowchat/English.lproj/InfoPlist.strings4300885448#349"    cd /Volumes/Work/Code/exp/wowchat    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Resources/English.lproj0#
-
-CLd /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/MacOS/wowchat normal i386
-s297087586.587019
-e297087586.631190
-r1
-xLd
-x/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/MacOS/wowchat
-xnormal
-xi386
-lSLF07#2@82"Link /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/MacOS/wowchat297087586#297087586#0(0"0(0#0#0"4300885448#548"    cd /Volumes/Work/Code/exp/wowchat    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Volumes/Work/Code/exp/wowchat/build/Debug -F/Volumes/Work/Code/exp/wowchat/build/Debug -filelist /Volumes/Work/Code/exp/wowchat/build/wowchat.build/Debug/wowchat.build/Objects-normal/i386/wowchat.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework SecurityFoundation -framework Security -o /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/MacOS/wowchat0#
-
-CProcessInfoPlistFile /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Info.plist wowchat-Info.plist
-s297087585.219049
-e297087585.234914
-r1
-xProcessInfoPlistFile
-x/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Info.plist
-xwowchat-Info.plist
-lSLF07#2@26"Process wowchat-Info.plist297087585#297087585#0(0"0(0#0#49"/Volumes/Work/Code/exp/wowchat/wowchat-Info.plist12948347151253608#286"    cd /Volumes/Work/Code/exp/wowchat    builtin-infoPlistUtility wowchat-Info.plist -genpkginfo /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app/Contents/Info.plist0#
-
-CProcessPCH /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wowchat_Prefix-gatfgpjoihxlisekfsysfdqizfiw/wowchat_Prefix.pch.gch wowchat_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CTouch /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app
-s297087586.631276
-e297087586.633683
-r1
-xTouch
-x/Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app
-lSLF07#2@60"Touch /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app297087586#297087586#0(0"0(0#0#0"4300885448#115"    cd /Volumes/Work/Code/exp/wowchat    /usr/bin/touch -c /Volumes/Work/Code/exp/wowchat/build/Debug/wowchat.app0#
-
